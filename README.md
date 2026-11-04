@@ -2,7 +2,7 @@
 
 Samma case finns i samlingen [case-studies/il-gambero](https://github.com/orangeelefant/case-studies/tree/main/il-gambero).
 
-How [Il Gambero](https://ilgambero.se) works online — built and maintained by [Webraketen](https://webraketen.se).
+How [Il Gambero](https://ilgambero.se) worked online in the version [Webraketen](https://webraketen.se) built, which is the version this case describes. The site now live at ilgambero.se is run by Il Gambero on One.com Web Editor, a platform Webraketen does not run.
 
 ## Om Il Gambero
 
