@@ -1,5 +1,7 @@
 # Case study — Il Gambero
 
+Samma case finns i samlingen [case-studies/il-gambero](https://github.com/orangeelefant/case-studies/tree/main/il-gambero).
+
 How [Il Gambero](https://ilgambero.se) works online — built and maintained by [Webraketen](https://webraketen.se).
 
 ## Om Il Gambero
@@ -9,10 +11,11 @@ Il Gambero är en napoletansk pizzeria i centrala Göteborg, etablerad 1995 och 
 → [ilgambero.se](https://ilgambero.se)
 
 ## Stack
-- Astro / Next.js
-- Netlify / Cloudflare
-- Resend · PostHog
+- One.com Web Editor
 
 ## Relaterat
-- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
+- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/orangeelefant/portfolio](https://github.com/orangeelefant/portfolio)
 - **Systersajter:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [ES Sten och Anläggning](https://esstenochanlaggning.se) · [MS Entreprenad](https://msentreprenad.se) · [Tittis Städ](https://tittisstad.se)
+
+---
+**Webraketen på GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Kundcase](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)
